@@ -4,6 +4,8 @@ h1, h2, th{
 
 p, li, td{
 	font-family: "Urbanist", sans-serif;
-
 }
 
+table, td, th, tr {
+  border: 1px solid black;
+}
