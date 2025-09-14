@@ -1,7 +1,7 @@
-h1, h2{
+h1, h2, thead{
 	font-family: "Bentham", serif;
 }
 
-p {
+p, tbody {
 	font-family: "Handlee", calligraphy;
 }
