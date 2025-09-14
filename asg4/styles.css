@@ -5,3 +5,7 @@ h1, h2, thead{
 p, tbody {
 	font-family: "Handlee", calligraphy;
 }
+
+table, td, th, tr {
+  border: 1px solid black;
+}
