@@ -1,5 +1,9 @@
 /* styles.css */
 
-* {
-	font-family: Arial;
+h1, h2, th{
+	font-family: "Cabin Sketch", sans-serif;
+}
+
+p, li, td{
+	font-family: "Caveat", cursive;
 }
