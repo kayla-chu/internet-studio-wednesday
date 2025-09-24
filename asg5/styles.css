@@ -14,8 +14,7 @@ form {
   text-align: center;
   line-height: 30px;
   height: 80%;
-	width-left: 50%;
-	width-right: 50%;
+	width: 50%;
   overflow: auto;
 	border-radius: 40px;
 	background-color: #E0FFEC;
