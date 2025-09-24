@@ -9,6 +9,7 @@ h1, h2{
 h1{
 	font-size: 60px;
 	color: #285378;
+	border-radius: 40px;
 }
 
 h2{
