@@ -1,9 +1,9 @@
 /* styles.css */
 body{
 	text-align: left;
-  line-height: 30px;
+  line-height: 70px;
   height: 80%;
-	width: 50%;
+	width: 25%;
   overflow: auto;
 	background-color: #E5F2FF;
 }
