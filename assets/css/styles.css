@@ -4,6 +4,12 @@ h1, h2, th{
 	font-family: "Cabin Sketch", sans-serif;
 }
 
+h1 {
+	font-size: 20px;
+}
+
+p
+
 p, li, td{
 	font-family: "Caveat", cursive;
 }
