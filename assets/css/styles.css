@@ -1,5 +1,7 @@
 /* styles.css */
-
+body{
+	background-color: #C9E3FF;
+}
 h1, h2{
 	font-family: "Cabin Sketch", sans-serif;
 }
@@ -11,10 +13,12 @@ h1{
 
 p{
 	font-size: 36px;
+	color: #5587B5;
 }
 
 li{
 	font-size: 22px;
+	color: #4D6580;
 }
 
 p, li{
