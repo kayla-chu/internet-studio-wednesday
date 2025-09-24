@@ -13,3 +13,10 @@ table, td, th, tr {
 .shawn-mendes, .kim-taehyung, .daniel-seavey {
 	width: 300px;
 }
+
+form {
+  text-align: center;
+  line-height: 30px;
+  height: 80%;
+  overflow: auto;
+}
