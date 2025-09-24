@@ -2,8 +2,20 @@ h1, h2, h3, h4, h5{
 	font-family: "Source Serif 4", serif;
 }
 
+h1 {
+	color: #361766;
+}
+
 p, li {
 	font-family: "Balsamiq Sans", sans-serif;
+}
+
+p{
+	color: #662115;
+}
+
+li{ 
+	color: #155066;
 }
 
 .shawn-mendes, .kim-taehyung, .daniel-seavey {
