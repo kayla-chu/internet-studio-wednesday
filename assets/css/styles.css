@@ -8,8 +8,14 @@ h1 {
 	font-size: 20px;
 }
 
-p
+p {
+	font-size: 18px;
+}
 
-p, li, td{
+li {
+	font-size: 16px;
+}
+
+p, li, {
 	font-family: "Caveat", cursive;
 }
