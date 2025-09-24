@@ -11,6 +11,5 @@ table, td, th, tr {
 }
 
 .shawn-mendes {
-	max-width: auto;
-	height: auto;
+	width: 100px;
 }
