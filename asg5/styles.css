@@ -1,1 +1,11 @@
+h1, h2, th{
+	font-family: "Libre Bodoni", serif;
+}
 
+p, li, td{
+	font-family: "Urbanist", sans-serif;
+}
+
+table, td, th, tr {
+  border: 1px solid black;
+}
