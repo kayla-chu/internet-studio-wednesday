@@ -19,6 +19,8 @@ form {
   line-height: 30px;
   height: 80%;
   overflow: auto;
+	border-radius: 40px;
+	background-color: #E0FFEC;
 }
 
 form hr {
