@@ -9,3 +9,8 @@ p, li, td{
 table, td, th, tr {
   border: 1px solid black;
 }
+
+.shawn-mendes {
+	max-width: auto;
+	height: auto;
+}
