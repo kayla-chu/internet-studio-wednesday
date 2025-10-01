@@ -36,3 +36,10 @@ h1, h2, h3{
 p {
       font-family: "Winky Rough", sans-serif;
 }
+
+.yellow-hat {
+  float: right;
+  margin-left: 10px; /* space between text and image */
+  max-width: 200px;
+  height: auto;
+
