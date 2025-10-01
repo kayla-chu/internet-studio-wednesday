@@ -24,7 +24,8 @@
 
  Insert all your glorious CSS styles below! */
 body{
-      background-color: #F4EBFC;
+      background-image: url(asg6/images/moroccan-flower.png);
+      background-repeat: repeat;
 }
 
 h1, h2, h3{
