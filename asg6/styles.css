@@ -39,7 +39,8 @@ p {
 
 .yellow-hat {
   float: right;
-  margin-left: 10px; /* space between text and image */
+  margin-left: 10px;
+margin-bottom: 10px;
   max-width: 200px;
   height: auto;
 
