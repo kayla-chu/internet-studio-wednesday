@@ -24,7 +24,7 @@
 
  Insert all your glorious CSS styles below! */
 body{
-      background-image: url(asg6/images/moroccan-flower.png);
+      background-image: url("asg6/images/moroccan-flower.png");
       background-repeat: repeat;
       padding: 20px;
 }
