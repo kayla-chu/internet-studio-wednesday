@@ -33,6 +33,12 @@ body{
 h1, h2, h3{
       font-family: "Bitter", serif;
 }
+
+h1{
+      border-radius: 60px;
+	background-color: #F2F2F2;
+}
+
 p {
       font-family: "Winky Rough", sans-serif;
 }
