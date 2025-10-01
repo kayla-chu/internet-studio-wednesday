@@ -23,3 +23,9 @@
        
 
  Insert all your glorious CSS styles below! */
+h1, h2, h3{
+      font-family: "Bitter", serif;
+}
+p {
+      font-family: "Winky Rough", sans-serif;
+}
