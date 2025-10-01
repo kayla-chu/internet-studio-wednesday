@@ -37,9 +37,10 @@ h1, h2, h3{
 
 .white{
 	background-color: #FFFFFF;
-	padding: 4px 8px;             /* comfortable space around the word */
-  display: inline-block;         /* wraps the background only around the word */
+	padding: 4px 8px;            
+  display: inline-block;         
   border-radius: 5px;
+	box-shadow: 2px 2px 5px rgba(0,0,0,0.3)
 }
 
 p {
