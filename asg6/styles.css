@@ -43,6 +43,46 @@ h1, h2, h3{
 	box-shadow: 2px 2px 5px rgba(0,0,0,0.3)
 }
 
+.red{
+	background-color: #FCEBEB;
+	padding: 4px 8px;            
+  display: inline-block;         
+  border-radius: 5px;
+	box-shadow: 2px 2px 5px rgba(0,0,0,0.3)
+}
+
+.black{
+	background-color: #CFCFCF;
+	padding: 4px 8px;            
+  display: inline-block;         
+  border-radius: 5px;
+	box-shadow: 2px 2px 5px rgba(0,0,0,0.3)
+}
+
+.yellow{
+	background-color: #FFFFC7;
+	padding: 4px 8px;            
+  display: inline-block;         
+  border-radius: 5px;
+	box-shadow: 2px 2px 5px rgba(0,0,0,0.3)
+}
+
+.green{
+	background-color: #DBFFDE;
+	padding: 4px 8px;            
+  display: inline-block;         
+  border-radius: 5px;
+	box-shadow: 2px 2px 5px rgba(0,0,0,0.3)
+}
+
+.blue{
+	background-color: #DBEBFF;
+	padding: 4px 8px;            
+  display: inline-block;         
+  border-radius: 5px;
+	box-shadow: 2px 2px 5px rgba(0,0,0,0.3)
+}
+
 p {
       font-family: "Winky Rough", sans-serif;
 }
