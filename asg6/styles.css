@@ -23,6 +23,10 @@
        
 
  Insert all your glorious CSS styles below! */
+body{
+      background-color: #F4EBFC;
+}
+
 h1, h2, h3{
       font-family: "Bitter", serif;
 }
