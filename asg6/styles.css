@@ -36,10 +36,10 @@ h1, h2, h3{
 }
 
 .white{
-      border-radius: 15px;
 	background-color: #FFFFFF;
-	padding-left: 10px
-	width: 9%;
+	padding: 4px 8px;             /* comfortable space around the word */
+  display: inline-block;         /* wraps the background only around the word */
+  border-radius: 5px;
 }
 
 p {
