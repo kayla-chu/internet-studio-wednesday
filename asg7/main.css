@@ -51,7 +51,7 @@ h2{
 	margin-top: 20px;
 	margin-left: 10%;
 	margin-right: auto;
-  text-align: right;
+  text-align: left;
 }
 
 h3{
@@ -60,13 +60,13 @@ h3{
   background-color: #E3FFE7;
   padding: 10px 20px;
   border-radius: 8px;
-  font-size: 26px;
+  font-size: 20px;
   font-weight: normal;
   max-width: 760px;
 	margin-top: 20px;
 	margin-left: 10%;
 	margin-right: auto;
-  text-align: right;
+  text-align: left;
 }
 
 p{
