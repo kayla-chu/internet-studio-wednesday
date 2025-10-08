@@ -36,6 +36,7 @@ h1 {
 }
 
 h2{
+	font-family: 'Lexend', sans-serif;
 	display: inline-block;
   background-color: #DFF2E1;
   padding: 10px 20px;
@@ -46,10 +47,11 @@ h2{
 	margin-top: 20px;
 	margin-left: 10%;
 	margin-right: auto;
-  text-align: center;
+  text-align: right;
 }
 
 h3{
+	font-family: 'Lexend', sans-serif;
 	display: inline-block;
   background-color: #E3FFE7;
   padding: 10px 20px;
@@ -60,7 +62,7 @@ h3{
 	margin-top: 20px;
 	margin-left: 10%;
 	margin-right: auto;
-  text-align: center;
+  text-align: right;
 }
 
 p{
