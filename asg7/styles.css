@@ -73,4 +73,7 @@ p{
   background-color: #FFDBDB;
   padding: 15px;
   border-radius: 10px;
+ width: 250px;
+  float: right; 
+  margin: 20px;
 }
