@@ -83,22 +83,8 @@ p{
 }
 
 .campaign,
-.section-three,
 .main {
   max-width: 1000px;      
   margin: 0 auto;           
   padding: 10px 20px;       
-}
-
-.section-three {
-  max-width: 700px;
-  margin: 20px auto;           /* centers below main content */
-  padding: 20px;
-  background-color: #fafafa;
-  border-radius: 10px;
-  line-height: 1.6;
-}
-
-.section-three h2 {
-  margin-bottom: 10px;
 }
