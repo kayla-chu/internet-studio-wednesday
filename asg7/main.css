@@ -1,8 +1,17 @@
-/* lexend-regular - latin for body */
+/* lexend-regular - latin for headers */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: 'Lexend';
   font-style: normal;
   font-weight: 400;
   src: url('../fonts/lexend-v26-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* antic-slab-regular - latin for body*/
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Antic Slab';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/antic-slab-v17-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
