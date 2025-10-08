@@ -42,22 +42,34 @@ p{
   margin-bottom: 10px;
 	float: center;
 }
-.sidebar {
-  background-color: #FFDBDB;
-  padding: 15px;
-  border-radius: 10px;
-  width: 250px;
-  float: right;
-  margin: 20px;
-}
 
 .sidebar h2 {
   font-size: 1.2em;
   margin-bottom: 8px;
 }
 
+.content {
+  display: flex;                /* puts main and sidebar in one row */
+  justify-content: space-between;
+  align-items: flex-start;      /* keeps them aligned at the top */
+  gap: 20px;                    /* adds space between them */
+  max-width: 1000px;            /* keeps content from going too wide */
+  margin: 0 auto;               /* centers the whole section */
+  padding: 20px;
+}
+
 .main {
-  flex: 2;
-  max-width: 650px; 
-  line-height: 1.6;     
+  flex: 3;                      /* main section takes more space */
+  max-width: 650px;  
+	line-height: 1.6;
+}
+
+.sidebar {
+  flex: 1;                      /* sidebar takes less space */
+  background-color: #FFDBDB;
+  padding: 15px;
+  border-radius: 10px;
+  width: 250px;
+  float: right;
+  margin: 20px;
 }
