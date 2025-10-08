@@ -16,6 +16,10 @@
   src: url('/asg7/fonts/antic-slab-v17-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+body{
+	background-image: url("/asg7/fonts/asg7-bg.png");
+    background-repeat: repeat;
+}
 h1{
   font-family: 'Lexend', sans-serif;
   margin-bottom: 5px;
