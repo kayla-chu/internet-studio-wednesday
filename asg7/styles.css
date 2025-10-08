@@ -3,7 +3,7 @@
   font-family: 'Edu QLD Hand';
   font-style: normal;
   font-weight: 500;
-  src: url(/asg7/fonts/edu-qld-hand-v3-latin-500.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/asg7/fonts/edu-qld-hand-v3-latin-500.woff2") format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 @font-face{
@@ -11,7 +11,7 @@
   font-family: 'Anek Tamil';
   font-style: normal;
   font-weight: 400;
-  src: url(/asg7/fonts/anek-tamil-v18-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/asg7/fonts/anek-tamil-v18-latin-regular.woff2") format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 h1{
