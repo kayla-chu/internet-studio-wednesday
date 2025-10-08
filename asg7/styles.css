@@ -1,11 +1,11 @@
-h1 {
+@font-face{
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: 'Edu QLD Hand';
   font-style: normal;
   font-weight: 500;
   src: url(/asg7/fonts/edu-qld-hand-v3-latin-500.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
-p{
+@font-face{
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: 'Anek Tamil';
   font-style: normal;
