@@ -16,6 +16,8 @@
 
 body{
 	background-color: #D3D9F0;
+	margin: 0;
+  	padding: 0;
 }
 
 h1, h2{
@@ -79,4 +81,12 @@ p{
  width: 250px;
   float: right; 
   margin: 20px;
+}
+
+.content,
+.section-three,
+.main {
+  max-width: 1000px;       /* keeps content from being too wide */
+  margin: 0 auto;           /* centers content */
+  padding: 10px 20px;       /* top/bottom 10px, left/right 20px */
 }
