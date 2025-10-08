@@ -51,6 +51,11 @@ h2{
 	margin-left: 10%;
 	margin-right: auto;
   text-align: left;
+	border-top: 2px dotted rgb(52,112,61);
+	border-bottom: 2px dotted rgb(52,112,61);
+	padding-top: 5px;
+	padding-bottom: 5px;
+	overflow: hidden;
 }
 
 h3{
