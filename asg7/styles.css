@@ -52,7 +52,7 @@ p{
   margin-bottom: 8px;
 }
 
-.content {
+.campaign {
   display: flex;                /* puts main and sidebar in one row */
   justify-content: space-between;
   align-items: flex-start;      /* keeps them aligned at the top */
