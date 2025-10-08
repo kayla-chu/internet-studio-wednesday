@@ -68,6 +68,10 @@ h3{
   text-align: left;
 }
 
+.bolded{
+	margin-bottom: 0;
+}
+
 p{
   font-family: 'Antic Slab', serif;
   margin-top: 0;
