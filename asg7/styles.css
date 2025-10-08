@@ -14,7 +14,9 @@
   src: url("/asg7/fonts/anek-tamil-v18-latin-regular.woff2") format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-
+body{
+	background-color: #B9C4EB;
+}
 
 h1, h2{
   font-family: 'Edu QLD Hand', handwriting;
