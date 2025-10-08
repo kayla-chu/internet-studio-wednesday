@@ -56,17 +56,17 @@ p{
   margin-bottom: 8px;
 }
 
-.campaign, .section-three{
+.campaign{
   display: flex;                /* puts main and sidebar in one row */
   justify-content: space-between;
   align-items: flex-start;      /* keeps them aligned at the top */
-  gap: 20px;                    /* adds space between them */
-  max-width: 1000px;            /* keeps content from going too wide */
-  margin: 0 auto;               /* centers the whole section */
+  gap: 20px;                    
+  max-width: 1000px;            
+  margin: 0 auto;               
   padding: 20px;
 }
 
-.main {
+.main, .section-three {
   flex: 3;                      /* main section takes more space */
   max-width: 650px;  
 	line-height: 1.6;
