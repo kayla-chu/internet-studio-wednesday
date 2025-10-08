@@ -27,10 +27,27 @@ p{
 .captain-america{
   max-width: 200px;
   height: auto;
+  border-radius: 8px;
+  margin-bottom: 10px;
 }
 
 .black-widow{
   max-width: 200px;
   height: auto;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+.sidebar {
+  background-color: #FFDBDB;
+  padding: 15px;
+  border-radius: 10px;
+  width: 250px;
+  float: right;
+  margin: 20px;
+}
+
+.sidebar h2 {
+  font-size: 1.2em;
+  margin-bottom: 8px;
 }
 
