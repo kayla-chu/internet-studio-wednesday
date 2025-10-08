@@ -1,7 +1,7 @@
 /* lexend-regular - latin for headers */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Lexend';
+  font-family: 'Lexend', sans-serif;
   font-style: normal;
   font-weight: 400;
   src: url('/asg7/fonts/lexend-v26-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
@@ -10,8 +10,27 @@
 /* antic-slab-regular - latin for body*/
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Antic Slab';
+  font-family: 'Antic Slab', serif;
   font-style: normal;
   font-weight: 400;
   src: url('/asg7/fonts/antic-slab-v17-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+h1, h2{
+  font-family: 'Lexend', sans-serif;
+  margin-bottom: 5px;
+}
+
+h1 {
+  display: inline-block;
+  background-color: #f0f0f0;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 36px;
+  font-weight: 700;
+  max-width: 760px;
+	margin-top: 20px;
+	margin-left: 30%;
+	margin-right: auto;
+  text-align: center;
 }
