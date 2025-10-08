@@ -56,7 +56,7 @@ p{
   margin-bottom: 8px;
 }
 
-.campaign {
+.campaign, .section-three{
   display: flex;                /* puts main and sidebar in one row */
   justify-content: space-between;
   align-items: flex-start;      /* keeps them aligned at the top */
@@ -82,7 +82,7 @@ p{
   margin: 20px;
 }
 
-.content,
+.campaign,
 .section-three,
 .main {
   max-width: 1000px;       /* keeps content from being too wide */
