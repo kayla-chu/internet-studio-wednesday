@@ -44,7 +44,7 @@ h2{
   background-color: #DFF2E1;
   padding: 10px 5px 10px;
   border-radius: 8px;
-  font-size: 26px;
+  font-size: 30px;
   font-weight: normal;
   max-width: 760px;
 	margin-top: 20px;
@@ -62,7 +62,7 @@ h3{
   background-color: #E3FFE7;
   padding: 10px 20px;
   border-radius: 8px;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: normal;
   max-width: 760px;
 	margin-top: 20px;
@@ -80,4 +80,5 @@ p{
   margin-top: 0;
 margin-left: 10%;
 	margin-right: 10%;
+	font-size: 14px;
 }
