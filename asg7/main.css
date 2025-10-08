@@ -23,7 +23,7 @@ h1{
 
 h1 {
   display: inline-block;
-  background-color: #f0f0f0;
+  background-color: #CEF5D2;
   padding: 10px 20px;
   border-radius: 8px;
   font-size: 36px;
@@ -36,11 +36,31 @@ h1 {
 }
 
 h2{
+	display: inline-block;
+  background-color: #DFF2E1;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 26px;
+  font-weight: normal;
+  max-width: 760px;
+	margin-top: 20px;
 	margin-left: 10%;
+	margin-right: auto;
+  text-align: center;
 }
 
 h3{
+	display: inline-block;
+  background-color: #E3FFE7;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 26px;
+  font-weight: normal;
+  max-width: 760px;
+	margin-top: 20px;
 	margin-left: 10%;
+	margin-right: auto;
+  text-align: center;
 }
 
 p{
