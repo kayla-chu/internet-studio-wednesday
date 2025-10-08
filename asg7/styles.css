@@ -16,10 +16,12 @@
 
 h1, h2{
   font-family: 'Edu QLD Hand', handwriting;
+  margin-bottom: 5px;
 }
 
 p{
   font-family: 'Anek Tamil', sans-serif;
+  margin-top: 0;
 }
 
 .captain-america{
