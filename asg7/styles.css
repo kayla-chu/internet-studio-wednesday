@@ -96,14 +96,3 @@ p{
   margin: 0 auto;           
   padding: 10px 20px;       
 }
-
-.wireframes{
-  display: flex;
-  justify-content: center;  
-  gap: 20px;                
-}
-
-.wireframes img {
-  width: 200px;             
-  height: auto;
-}
