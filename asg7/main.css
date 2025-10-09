@@ -87,10 +87,10 @@ margin-left: 15%;
 .wireframes{
   display: flex;
   justify-content: center;  
-  gap: 20px;                
-}
-
-.wireframes img {
-  width: 200px;             
+  gap: 20px;  
+  margin-left: 10px;
+margin-bottom: 10px;
+  max-width: 200px;
   height: auto;
 }
+
