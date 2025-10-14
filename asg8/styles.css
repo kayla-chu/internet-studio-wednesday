@@ -19,3 +19,35 @@
 body {
   background-color: #FFF1B3;
 }
+
+h1 {
+  font-family: 'Charis SIL';
+  display: inline-block;
+  background-color: #CEF5D2;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 36px;
+  font-weight: 700;
+  max-width: 760px;
+	margin-top: 20px;
+	margin-left: 40%;
+	margin-right: auto;
+  text-align: center;
+	border: 2px solid rgb(52,112,61);
+}
+
+h2{
+	font-family: 'Assistant';
+  background-color: #DFF2E1;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 30px;
+  font-weight: normal;
+  max-width: 760px;
+	margin-top: 20px;
+	margin-left: 10%;
+	margin-right: auto;
+  text-align: left;
+	border-top: 2px dotted rgb(52,112,61);
+	border-bottom: 2px dotted rgb(52,112,61);
+	overflow: hidden;
