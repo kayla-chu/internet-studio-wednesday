@@ -23,7 +23,7 @@ body {
 h1 {
   font-family: 'Charis SIL';
   display: inline-block;
-  background-color: #CEF5D2;
+  background-color: #FCE78D;
   padding: 10px 20px;
   border-radius: 8px;
   font-size: 36px;
@@ -33,12 +33,12 @@ h1 {
 	margin-left: 40%;
 	margin-right: auto;
   text-align: center;
-	border: 2px solid rgb(52,112,61);
+	border: 2px solid rgb(148, 122, 37);
 }
 
 h2{
 	font-family: 'Assistant';
-  background-color: #DFF2E1;
+  background-color: #FFE580;
   padding: 10px 20px;
   border-radius: 8px;
   font-size: 30px;
@@ -48,6 +48,6 @@ h2{
 	margin-left: 10%;
 	margin-right: auto;
   text-align: left;
-	border-top: 2px dotted rgb(52,112,61);
-	border-bottom: 2px dotted rgb(52,112,61);
+	border-top: 2px dotted rgb(148, 122, 37);
+	border-bottom: 2px dotted rgb(148, 122, 37);
 	overflow: hidden;
