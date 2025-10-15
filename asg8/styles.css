@@ -4,7 +4,7 @@
   font-family: 'Assistant';
   font-style: normal;
   font-weight: 400;
-  src: url('/fonts/assistant-v24-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url('asg8/fonts/assistant-v24-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* charis-sil-regular - latin */
@@ -13,7 +13,7 @@
   font-family: 'Charis SIL';
   font-style: normal;
   font-weight: 400;
-  src: url('/fonts/charis-sil-v2-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url('asg8/fonts/charis-sil-v2-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 body {
