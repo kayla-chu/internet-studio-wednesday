@@ -33,7 +33,16 @@ p {
 	margin-left: 10%;
 	margin-right: auto;
   text-align: left;
-	
+}
+
+ol {
+	font-size: 1em;
+	font-family: 'Assistant';
+	 max-width: 760px;
+	margin-top: 20px;
+	margin-left: 10%;
+	margin-right: auto;
+  text-align: left;
 }
 
 h1,h2,h3,h4,h5 {
