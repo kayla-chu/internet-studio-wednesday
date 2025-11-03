@@ -17,7 +17,6 @@
   src: url("/asg11/fonts/englebert-v24-latin-regular.woff2") format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-
 html {
 font-size: clamp(14px, 1.2vw, 18px);
 }
