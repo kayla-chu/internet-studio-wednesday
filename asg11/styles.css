@@ -17,19 +17,74 @@
   src: url("/asg11/fonts/englebert-v24-latin-regular.woff2") format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-html {font-size: 16px;}
 
-body {
-  font-family: 'Englebert';
-  font-weight: false;
-  line-height: 1.65;
+html {
+font-size: clamp(14px, 1.2vw, 18px);
 }
 
-h1, h2 {
-  font-family: 'Chiron Hei HK';
+body {
+font-family: 'Englebert';
+line-height: 1.65;
+color: #2D2A32; /*dark plum-gray*/
+margin: 0;
+background: url("background.jpg") center/cover no-repeat fixed; /*your background image */
+}
+/* Color palette comment:
+Deep Plum: #4A1942
+Soft Pink: #F6D6E0
+Warm Peach: #F8B195
+Dark Gray Plum: #2D2A32
+*/
+/* ----------------------------------
+Typography
+----------------------------------*/
+h1 {
+font-family: 'Chiron Hei HK';
+font-size: clamp(2rem, 4vw, 3.5rem); /*fluid heading */
+text-align: center;
+color: #4A1942;
+margin-top: 20px;
+}
+
+h2 {
+font-family: 'Chiron Hei HK';
+font-size: clamp(1.4rem, 2.5vw, 2.2rem);
+color: #F8B195;
+margin-bottom: .5rem;
 }
 
 p {
-  font-size: 1em;
-	font-family: 'Englebert';
+font-family: 'Englebert';
+font-size: 1em;
+}
+/* ----------------------------------
+Layout - Flexbox Gallery
+----------------------------------*/
+.team-gallery {
+display: flex; 
+gap: 20px;
+flex-wrap: wrap; 
+justify-content: center;
+padding: 20px;
+}
+
+.member {
+width: 200px;
+text-align: center;
+background: rgba(255,255,255,0.6);
+padding: 15px;
+border-radius: 10px;
+backdrop-filter: blur(8px); /* glass card effect */
+}
+
+.member img {
+width: 100%;
+border-radius: 10px;
+margin-bottom: 10px;
+}
+
+/* Subtle hover effect */
+.member:hover {
+transform: translateY(-5px);
+transition: .2s ease;
 }
