@@ -16,3 +16,20 @@
   font-weight: 400;
   src: url('../fonts/englebert-v24-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
+
+html {font-size: 16px;}
+
+body {
+  font-family: 'Englebert';
+  font-weight: false;
+  line-height: 1.65;
+}
+
+h1, h2 {
+  font-family: 'Chiron Hei HK';
+}
+
+p {
+  font-size: 1em;
+	font-family: 'Englebert';
+}
