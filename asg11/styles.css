@@ -26,7 +26,7 @@ font-family: 'Englebert';
 line-height: 1.65;
 color: #2D2A32; /*dark plum-gray*/
 margin: 0;
-background: url("background.jpg") center/cover no-repeat fixed; /*your background image */
+background: url("/asg11/pictures/double-bubble.png") repeat;
 }
 /* Color palette comment:
 Deep Plum: #4A1942
