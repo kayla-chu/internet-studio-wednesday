@@ -27,8 +27,6 @@ body {
   line-height: 1.7;
   margin: 0;
   color: #5986C2;
-  background: url("pictures/bg.svg") no-repeat center center fixed;
-  background-size: cover;
 }
 
 /* header and text styles */
