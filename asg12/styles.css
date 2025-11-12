@@ -29,6 +29,21 @@ margin: 0;
 background: url("/asg12/pictures/") repeat;
 }
 
+h1 {
+font-family: 'Ledger';
+font-size: clamp(2rem, 4vw, 3.5rem); /*fluid heading */
+text-align: center;
+color: ;
+margin-top: 20px;
+}
+
+h2 {
+  font-family: 'Ledger';
+  font-size: clamp(1.2rem, 2vw, 1.8rem);
+  color: ;
+  margin-bottom: .5rem;
+}
+
 p {
   font-family: 'Bellefair';
   font-size: 1em;
