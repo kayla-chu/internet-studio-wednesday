@@ -25,7 +25,7 @@ body {
   font-family: 'Bellefair', serif;
   line-height: 1.7;
   margin: 0;
-  color: #3b2f2f;
+  color: #5986C2;
   background: url("pictures/bg.svg") no-repeat center center fixed;
   background-size: cover;
 }
@@ -35,7 +35,7 @@ h1 {
   font-family: 'Ledger', serif;
   font-size: clamp(2rem, 4vw, 3.2rem);
   text-align: center;
-  color: #2e0505;
+  color: #0D3975;
   margin-top: 30px;
 }
 
