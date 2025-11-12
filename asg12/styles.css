@@ -16,3 +16,15 @@
   font-weight: 400;
   src: url('../fonts/bellefair-v15-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
+
+html {
+font-size: clamp(14px, 1.2vw, 18px);
+}
+
+body {
+font-family: 'Englebert';
+line-height: 1.65;
+color: 
+margin: 0;
+background: url("/asg12/pictures/") repeat;
+}
