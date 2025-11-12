@@ -22,9 +22,18 @@ font-size: clamp(14px, 1.2vw, 18px);
 }
 
 body {
-font-family: 'Englebert';
+font-family: 'Bellefair';
 line-height: 1.65;
 color: 
 margin: 0;
 background: url("/asg12/pictures/") repeat;
+}
+
+p {
+  font-family: 'Bellefair';
+  font-size: 1em;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 0 20px;
 }
