@@ -18,37 +18,84 @@
 }
 
 html {
-font-size: clamp(14px, 1.2vw, 18px);
+  font-size: clamp(14px, 1.2vw, 18px);
 }
 
 body {
-font-family: 'Bellefair';
-line-height: 1.65;
-color: 
-margin: 0;
-background: url("/asg12/pictures/") repeat;
+  font-family: 'Bellefair', serif;
+  line-height: 1.7;
+  margin: 0;
+  color: #3b2f2f;
+  background: url("pictures/bg.svg") no-repeat center center fixed;
+  background-size: cover;
 }
 
+/* header and text styles */
 h1 {
-font-family: 'Ledger';
-font-size: clamp(2rem, 4vw, 3.5rem); /*fluid heading */
-text-align: center;
-color: ;
-margin-top: 20px;
+  font-family: 'Ledger', serif;
+  font-size: clamp(2rem, 4vw, 3.2rem);
+  text-align: center;
+  color: #2e0505;
+  margin-top: 30px;
 }
 
 h2 {
-  font-family: 'Ledger';
-  font-size: clamp(1.2rem, 2vw, 1.8rem);
-  color: ;
-  margin-bottom: .5rem;
+  font-family: 'Ledger', serif;
+  font-size: clamp(1.2rem, 2vw, 1.6rem);
+  color: #4d0000;
+  margin-top: 10px;
+  margin-bottom: 5px;
 }
 
 p {
-  font-family: 'Bellefair';
+  font-family: 'Bellefair', serif;
   font-size: 1em;
   max-width: 800px;
   margin: 0 auto;
   text-align: center;
-  padding: 0 20px;
+  padding: 0 15px;
 }
+
+.intro {
+  margin-bottom: 40px;
+  color: #5e3030;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  max-width: 1200px;
+  margin: 0 auto 60px;
+  padding: 20px;
+}
+
+.movie {
+  background-color: rgba(255, 255, 255, 0.88);
+  border-radius: 10px;
+  padding: 15px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.movie:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+}
+
+/* for formatting my images */
+.movie img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+  margin: 0 auto 10px;
+}
+
+/*  Color Palette
+   (Burgundy, Cream, Warm Gray)
+   Primary: #4d0000
+   Accent: #5e3030
+   Background: #fff
+   Text: #3b2f2f */
