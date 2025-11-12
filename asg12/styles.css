@@ -19,6 +19,7 @@
 
 html {
   font-size: clamp(14px, 1.2vw, 18px);
+  background-color: #F5F0ED;
 }
 
 body {
