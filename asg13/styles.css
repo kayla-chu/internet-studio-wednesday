@@ -1,1 +1,108 @@
+/* ===========================
+   Google Fonts:
+   - Poppins for headers
+   - Roboto for body text
+   =========================== */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    background: #F1F5F2; /* Sage Mist */
+    color: #333;
+}
+
+/* ===== HEADER ===== */
+header {
+    background: linear-gradient(to right, #6F9975, #9EBFA3); 
+    padding: 40px 20px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.5em;
+    color: white;
+    margin: 0;
+}
+
+/* ===== INTRO SECTION ===== */
+.intro {
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 0 20px;
+}
+
+.intro h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.8em;
+    color: #4D6F56; /* Olive Green */
+}
+
+.intro p {
+    font-size: 1.1em;
+    line-height: 1.7em;
+}
+
+/* ===== JOB LISTINGS ===== */
+.jobs {
+    background: #C8DCCB; /* Soft Sage */
+    padding: 60px 20px;
+}
+
+.jobs h2 {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2em;
+    color: #4D6F56; /* Olive Green */
+}
+
+/* Grid layout for job cards */
+.job-list {
+    max-width: 1100px;
+    margin: 40px auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 30px;
+}
+
+/* Job card style */
+.job-card {
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    display: flex;
+    flex-direction: column;
+}
+
+.job-card img {
+    width: 120px;
+    margin-bottom: 15px;
+}
+
+.job-card h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.4em;
+    color: #6F9975; /* Deep Sage */
+    margin-top: 5px;
+}
+
+.job-card a {
+    margin: 10px 0 15px;
+    color: #6F9975; /* Deep Sage */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.job-card a:hover {
+    text-decoration: underline;
+}
+
+.job-card p {
+    font-size: 1em;
+    line-height: 1.6em;
+}
+
+/* END OF FILE */
 
