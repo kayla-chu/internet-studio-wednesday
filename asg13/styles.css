@@ -1,20 +1,20 @@
 /* headers */
-/* ledger-regular - latin */
+/* m-plus-rounded-1c-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Ledger';
+  font-family: 'M PLUS Rounded 1c';
   font-style: normal;
   font-weight: 400;
-  src: url("asg12/fonts/ledger-v17-latin-regular.woff2") format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("asg13/fonts/m-plus-rounded-1c-v19-latin-regular.woff2") format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 /* body */
-/* bellefair-regular - latin */
+/* cantarell-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Bellefair';
+  font-family: 'Cantarell';
   font-style: normal;
   font-weight: 400;
-  src: url("asg12/fonts/bellefair-v15-latin-regular.woff2") format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("asg13/fonts/cantarell-v18-latin-regular.woff2") format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 body {
