@@ -20,12 +20,12 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Roboto', sans-serif;
-    background: #F1F5F2; /* Sage Mist */
+    font-family: 'Cantarell';
+    background: #F1F5F2; 
     color: #333;
 }
 
-/* ===== HEADER ===== */
+/* header area */
 header {
     background: linear-gradient(to right, #6F9975, #9EBFA3); 
     padding: 40px 20px;
@@ -33,13 +33,13 @@ header {
 }
 
 h1 {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'M PLUS Rounded 1c';
     font-size: 2.5em;
     color: white;
     margin: 0;
 }
 
-/* ===== INTRO SECTION ===== */
+/* intro area */
 .intro {
     max-width: 900px;
     margin: 50px auto;
@@ -47,9 +47,9 @@ h1 {
 }
 
 .intro h2 {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'M PLUS Rounded 1c';
     font-size: 1.8em;
-    color: #4D6F56; /* Olive Green */
+    color: #4D6F56; 
 }
 
 .intro p {
@@ -57,9 +57,9 @@ h1 {
     line-height: 1.7em;
 }
 
-/* ===== JOB LISTINGS ===== */
+/* all the job's area */
 .jobs {
-    background: #C8DCCB; /* Soft Sage */
+    background: #C8DCCB; 
     padding: 60px 20px;
 }
 
@@ -67,10 +67,10 @@ h1 {
     text-align: center;
     font-family: 'Poppins', sans-serif;
     font-size: 2em;
-    color: #4D6F56; /* Olive Green */
+    color: #4D6F56; 
 }
 
-/* Grid layout for job cards */
+/* my grid layer for the jobs */
 .job-list {
     max-width: 1100px;
     margin: 40px auto;
@@ -79,7 +79,7 @@ h1 {
     gap: 30px;
 }
 
-/* Job card style */
+/* card style for the jobs */
 .job-card {
     background: white;
     padding: 25px;
@@ -97,13 +97,13 @@ h1 {
 .job-card h3 {
     font-family: 'Poppins', sans-serif;
     font-size: 1.4em;
-    color: #6F9975; /* Deep Sage */
+    color: #6F9975; 
     margin-top: 5px;
 }
 
 .job-card a {
     margin: 10px 0 15px;
-    color: #6F9975; /* Deep Sage */
+    color: #6F9975; 
     text-decoration: none;
     font-weight: bold;
 }
@@ -116,6 +116,4 @@ h1 {
     font-size: 1em;
     line-height: 1.6em;
 }
-
-/* END OF FILE */
 
